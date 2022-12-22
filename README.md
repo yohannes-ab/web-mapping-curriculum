@@ -1,7 +1,7 @@
 # Web-Mapping-Curriculum
-I
+
 Yohannes Abrha Mulaw
-<
+
 ----
 
 ## Welcome to Introduction to Web Mapping with Mapbox!
