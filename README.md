@@ -1,13 +1,7 @@
 # Web-Mapping-Curriculum
-
-Instructor: Dan Swick, dan@mapbox.com
+I
 Yohannes Abrha Mulaw
-<br> TA: Megan Danielson, megan.danielson@mapbox.com
-<br>Office Hours: By appointment only 
-
-Class Meetings:	Thursdays, 6:30pm–9:30pm, 01/16 - 03/05
-<br>Room/Bldg:  Harney G24
-
+<
 ----
 
 ## Welcome to Introduction to Web Mapping with Mapbox!
